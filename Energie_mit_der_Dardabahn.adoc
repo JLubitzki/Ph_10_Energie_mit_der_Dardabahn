@@ -1,0 +1,5 @@
+# Energieumwandlung an der Dardabahn #
+
+Die Bahn wird wie im Bild aufgebaut. Starthöhe ist exakt mit dem Abschluss des Frontspoilers an der hinteren Kante der 2. geraden Schiene.
+
+Die Größen sind Loopingradius r = 10,5 cm, Tischhöhe h_Tisch = 90,0 cm, Schwerpunkt des Autos über der Tischplatte 2,0 cm
